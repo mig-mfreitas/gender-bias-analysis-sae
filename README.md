@@ -1,4 +1,4 @@
-By:\n
+By:  
 Angus Cunningham  
 Dani Vegara  
 Gonzalo Plaza  
